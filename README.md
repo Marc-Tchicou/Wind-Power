@@ -112,5 +112,4 @@ de la physique.
 
 **Marc-Antony TCHICOU**
 Étudiant ingénieur @ ENSIIE — Double diplôme Mathématiques Appliquées (Paris-Saclay)
-Étudiant en échange @ McMaster University
 tchicouantony@gmail.com
