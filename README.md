@@ -7,9 +7,6 @@ Ce projet implémente un pipeline complet de prédiction de la **puissance gén�
 (baseline), un Random Forest et un réseau de neurones MLP (PyTorch). Une analyse d'interprétabilité
 via **SHAP values** est également réalisée.
 
-Projet réalisé dans le cadre du cours **DATASCI 3ML3 — Introduction to Neural Networks**
-à McMaster University (Avril 2026).
-
 ---
 
 ## Données
